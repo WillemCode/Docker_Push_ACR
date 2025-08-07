@@ -1,1 +1,1 @@
-php:7.3.33-alpine
+golang:1.24.6-alpine
