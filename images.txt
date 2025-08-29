@@ -1,3 +1,1 @@
-apache/skywalking-ui:10.2.0
-apache/skywalking-oap-server:10.2.0
-elasticsearch:7.17.28
+php:7.4.33-fpm-alpine
